@@ -1,0 +1,77 @@
+
+
+   img {
+
+  border-radius: 20px;
+  height: 400px;
+  width: 300px;
+
+        }
+
+        .btn-blue {
+    background-color: #C3ACCE;
+    padding: 10px 20px;
+    border-radius: 10px;
+  }
+
+  .btn-blue:hover {
+    background-color: #87B38D;
+}
+
+
+
+  h2 {
+
+  font-family: 'Ubuntu', sans-serif;
+  font-color: #220926;
+  text-align: center;
+  }
+
+  p {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+  }
+
+  .para {
+    text-align: center;
+    padding: px;
+    margin: 20px;
+    font-size: 20px ;
+        }
+
+.first {
+  border-radius: 10px;
+  margin: 20px
+  background-color: #F1DEDE;
+  padding: 5px;
+}
+
+.interest {
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px 3px;
+  margin: 20px;
+  background-color: #F1DEDE;
+  padding: 5px;
+}
+
+.career {
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px 3px;
+  margin: 20px;
+  background-color: #F1DEDE;
+  padding: 5px;
+}
+
+.doggie {
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px 3px;
+  margin: 20px;
+  background-color: #F1DEDE;
+  padding: 5px;
+}
+
+i {
+  color: black;
+  font-size: 20px;
+}
+

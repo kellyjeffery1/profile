@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Ubuntu&display=swap');
+@import url("https://use.fontawesome.com/releases/v5.0.10/css/all.css");
+
+body {
+  background-image: url(https://www.google.com/search?q=watermelon+background&rlz=1C5CHFA_enGB872GB872&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjB59ngs8TlAhWMTsAKHZd9DGAQ_AUIEigB&biw=891&bih=729#imgrc=xRu8fsJ4x0V9WM:);
+  background-color: #cccccc;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  font-family: 'Ubuntu', sans-serif;
+  color: #66244C
+  font-weight: bold;
+  font-size: 50px;
+}
+
+h2 {
+color: #66244C
+font-family: 'Ubuntu', sans-serif;
+font-weight: bold;
+
+}
+
+img {
+  border-radius: 50%;
+  height: 300px;
+  width: 300px;
+}
+
+.btn-blue {
+    background-color: #C4BBAF;
+    padding: 10px 20px;
+    border-radius: 10px;
+  }
+
+  .btn-blue:hover {
+    background-color: #B8336A;
+}
+
+p {
+  margin-bottom: 40px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+div {
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.1);
+  margin: 30px auto;
+  width: 700px;
+  background-color: #E5ECE9;
+  padding: 30px;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.shadowed {
+  box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.1);
+}
+
+.icon-grey {
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    font-size: 40px;
+    border-radius: 5px;
+}
+
+.icon-grey:hover {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.interest {
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.1);
+  margin: 40px auto;
+  width: 500px;
+  background-color: #E5ECE9;
+  padding: 30px;
+  box-sizing: border-box;
+}
+
+.career {
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.1);
+  margin: 40px auto;
+  width: 500px;
+  background-color: #E5ECE9;
+  padding: 30px;
+  box-sizing: border-box;
+}
+
+.doggie {
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.1);
+  margin: 40px auto;
+  width: 500px;
+  background-color: #E5ECE9;
+  padding: 30px;
+  box-sizing: border-box;
+}
+
+li {
+  display: inline;
+}
+
+.links {
+
+
+
+
+
+
+
+
+
+
